@@ -1,5 +1,3 @@
-# Future Ready Telent Project
-
 # Industry Name : Ed-tech
 
 # Project Title : Edify
